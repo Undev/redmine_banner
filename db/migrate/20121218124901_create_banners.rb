@@ -1,6 +1,6 @@
 class CreateBanners < ActiveRecord::Migration
   def self.up
-    create_table :banners do |t|
+    create_table :banners, :force => true do |t|
       t.column :enabled, :boolean
       t.column :type, :string
       t.column :banner_description, :string
