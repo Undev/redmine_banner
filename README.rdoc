@@ -1,5 +1,8 @@
 = Redmine Banner Plugin 
 
+{<img src="https://travis-ci.org/nodecarter/redmine_banner.png" />}[https://travis-ci.org/nodecarter/redmine_banner]
+{<img src="https://codeclimate.com/github/nodecarter/redmine_banner.png" />}[https://codeclimate.com/github/nodecarter/redmine_banner]
+
 Plugin to show site-wide message from site administrator, such as maintenance information or notifications.
 
 === Plugin installation
