@@ -9,7 +9,7 @@ class CreateBanners < ActiveRecord::Migration
       t.column :end_date, :datetime
       t.column :project_id, :integer, :null => false
       t.column :updated_on, :datetime
-    end
+    end unless table_exists? :banners
   end
 
   def self.down
