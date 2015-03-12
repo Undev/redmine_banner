@@ -13,7 +13,7 @@ en:
   error_banner_date_range: "The start date should be prior to the end date."  
   redmine_banner_title: "Go to the banner settings"
   button_off: "Off"
-  banner_off: "Turn off the banner in this session. (Turn on the banner again if the administrator updates the global banner.)"
+  banner_off: "Turn off the banner in this session. (The banner will be turned on again if the administrator updates it.)"
   permission_manage_banner: "Manage the banner"
   project_module_banner: "Banner"
   page_overview_only: "Overview only"

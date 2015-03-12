@@ -4,10 +4,10 @@ require 'settings_controller_patch'
 require 'banner_projects_helper_patch'
 
 Redmine::Plugin.register :redmine_banner do
-  name 'Redmine Banner plugin'
-  author 'Akiko Takano'
+  name 'Redmine Banner Plugin'
+  author 'Akiko Takano, Undev'
   author_url 'http://twitter.com/akiko_pusu'  
-  description 'Plugin to show site-wide message, such as maintenacne informations or notifications.'
+  description 'This plugin shows site-wide messages, such as maintenacne information or notifications.'
   version '0.0.9'
   requires_redmine :version_or_higher => '2.1.0'
   url 'https://github.com/akiko-pusu/redmine_banner'
@@ -15,7 +15,7 @@ Redmine::Plugin.register :redmine_banner do
   settings :partial => 'settings/redmine_banner',
     :default => {
       'enable' => 'false',
-      'banner_description' => 'exp. Information about upcoming Service Interruption.',
+      'banner_description' => 'Sample banner text',
       'type' => 'info',
       'display_part' => 'both',
       'use_timer' => 'false',
