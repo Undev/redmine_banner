@@ -1,8 +1,5 @@
 # Redmine Banner Plugin 
 
-[![Build Status](https://travis-ci.org/Undev/redmine_banner.png)](https://travis-ci.org/Undev/redmine_banner)
-[![Code Climate](https://codeclimate.com/github/Undev/redmine_banner.png)](https://codeclimate.com/github/Undev/redmine_banner)
-
 This plugin is used to show site-wide messages from the Redmine administrator, such as maintenance information messages or notifications.
 
 ## Compatibility
