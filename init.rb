@@ -7,7 +7,7 @@ Redmine::Plugin.register :redmine_banner do
   name 'Redmine Banner Plugin'
   author 'Akiko Takano'
   author_url 'http://twitter.com/akiko_pusu'  
-  description 'This plugin shows site-wide messages, such as maintenacne information or notifications.'
+  description 'This plugin shows site-wide messages, such as maintenance information or notifications.'
   version '0.0.9'
   requires_redmine :version_or_higher => '2.1.0'
   url 'https://github.com/akiko-pusu/redmine_banner'

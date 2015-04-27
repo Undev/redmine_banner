@@ -5,8 +5,6 @@
 
 This plugin is used to show site-wide messages from the Redmine administrator, such as maintenance information messages or notifications.
 
-The initial author of the plugin is [Akiko Takano](https://github.com/akiko-pusu/redmine_banner).
-
 ## Compatibility
 
 This plugin version is compatible only with Redmine 2.1.0 and later.
@@ -62,7 +60,5 @@ The project banner will be displayed on the corresponding project pages. You can
 ![project banner result](banner_6.PNG)
 
 ## License
-
-=== License
 
 This software is licensed under the GNU GPL v2. See COPYRIGHT and COPYING for details.
