@@ -59,6 +59,10 @@ Switch to the **Banner** tab and configure the project banner as needed. To acti
 The project banner will be displayed on the corresponding project pages. You can click **Edit** on the banner to change its settings or click **Off** to turn off the banner.  
 ![project banner result](banner_6.PNG)
 
+## Maintainers
+
+Danil Tashkinov, [github.com/nodecarter](https://github.com/nodecarter)
+
 ## License
 
 This software is licensed under the GNU GPL v2. See COPYRIGHT and COPYING for details.
